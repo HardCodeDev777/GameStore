@@ -1,6 +1,6 @@
 # GameStore
 
-A pet project for learning backend development with ASP.NET Core. The frontend was built with an AI coding agent.
+Pet project for learning backend with ASP.NET Core. The frontend was built with an AI agent.
 
 ## Tech Stack
 
